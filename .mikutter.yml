@@ -1,0 +1,9 @@
+---
+slug: :mikutter_pocket
+depends:
+  mikutter: 3.2.10
+  plugin: []
+version: '1.0'
+author: yuzumone
+name: mikutter_pocket
+description: mikutter de Pocket
